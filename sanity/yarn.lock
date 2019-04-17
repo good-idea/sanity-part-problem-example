@@ -690,6 +690,10 @@
     in-publish "^2.0.0"
     promise-props-recursive "^1.0.0"
 
+"@sanity/cli@^0.140.14":
+  version "0.140.14"
+  resolved "https://registry.yarnpkg.com/@sanity/cli/-/cli-0.140.14.tgz#63a63be224c0fea00ab60520b54fec4b31f043bf"
+
 "@sanity/client@0.140.11":
   version "0.140.11"
   resolved "https://registry.npmjs.org/@sanity/client/-/client-0.140.11.tgz#505abc729db82e6d2eb935d7440a4fdaf751870d"
@@ -6389,6 +6393,10 @@ safe-regex@^1.1.0:
 same-origin@^0.1.1:
   version "0.1.1"
   resolved "https://registry.npmjs.org/same-origin/-/same-origin-0.1.1.tgz#c2287d3192577df517acbbd6d1451a9c3c3914f5"
+
+"sanity-plugin-my-sanity-tool@link:../my-sanity-tool":
+  version "0.0.0"
+  uid ""
 
 sax@^1.2.4, sax@~1.2.4:
   version "1.2.4"
